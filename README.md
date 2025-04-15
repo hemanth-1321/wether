@@ -19,6 +19,8 @@ Install the necessary dependencies using npm:
 bash
 npm install
 
+4. Add Your own VITE_OPENWETHER_API_KEY 
+
 4. Run the Development Server
 To start the development server, run:
 
