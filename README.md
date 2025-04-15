@@ -25,3 +25,6 @@ To start the development server, run:
 bash
 npm run dev
 The application will be available at http://localhost:5173 in your browser.
+
+
+Note: To provide accurate weather information for your current location, please allow the application to access your device's location when prompted.
